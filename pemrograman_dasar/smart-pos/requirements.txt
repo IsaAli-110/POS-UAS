@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic<2.0.0
+passlib
+bcrypt==3.2.2
+python-jose
+streamlit
+requests
+pandas
+plotly
+python-multipart

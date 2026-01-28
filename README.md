@@ -10,7 +10,7 @@ Sistem Point of Sale (POS) modern yang dibangun dengan **FastAPI** (Backend) dan
 
 ### Anggota Kelompok:
 1. **ISA ALI ARRUMY** - 24.83.1056
-2. **IKHSANUL FIKRI** - 24.83.1084
+2. **IHSANUL FIKRI** - 24.83.1084
 3. **MUHAMAD DARUS SALAM** - 24.83.1063
 
 ---
